@@ -327,6 +327,7 @@
 					<path>/aaaaashow</path>
 					<username>tomcat</username>
 					<password>tomcat</password>
+			               <warFile>target/*.war</warFile>
 					<!--<path>/NEW</path>-->
 					</configuration>
 				</plugin>
