@@ -329,6 +329,7 @@
 					<password>tomcat</password>
 			               <warFile>target/EmployeeApplication.war</warFile>
 					<!--<path>/NEW</path>-->
+						<update>true</update>
 					</configuration>
 				</plugin>
 	
