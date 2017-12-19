@@ -324,7 +324,7 @@
 					<configuration>
 						<url>http://172.27.59.133:9595//manager/text</url>
 					<!-- 	<server>TomcatServer</server> -->
-					<path>/showUS</path>
+					<path>/show</path>
 					<username>tomcat</username>
 					<password>tomcat</password>
 			               <warFile>target/EmployeeApplication.war</warFile>
